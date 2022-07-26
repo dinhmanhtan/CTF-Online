@@ -1,23 +1,22 @@
-# ![](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/logo.png?raw=true)
-
-![CTFd MySQL CI](https://github.com/CTFd/CTFd/workflows/CTFd%20MySQL%20CI/badge.svg?branch=master)
-![Linting](https://github.com/CTFd/CTFd/workflows/Linting/badge.svg?branch=master)
-[![MajorLeagueCyber Discourse](https://img.shields.io/discourse/status?server=https%3A%2F%2Fcommunity.majorleaguecyber.org%2F)](https://community.majorleaguecyber.org/)
-[![Documentation Status](https://api.netlify.com/api/v1/badges/6d10883a-77bb-45c1-a003-22ce1284190e/deploy-status)](https://docs.ctfd.io)
-
-## What is CTFd?
+## About project
+This project is implemented based on CTFd platform
 
 CTFd is a Capture The Flag framework focusing on ease of use and customizability. It comes with everything you need to run a CTF and it's easy to customize with plugins and themes.
+https://github.com/CTFd/CTFd
 
 ![CTFd is a CTF in a can.](https://github.com/CTFd/CTFd/blob/master/CTFd/themes/core/static/img/scoreboard.png?raw=true)
 
-## Features
+## Adding Features
 
+- Separate flag for each user to avoid cheating in a competition
 
 
 ## Install
 
 
-you can use Docker Compose with the following command from the source repository:
+Using Docker Compose with the following command from the source repository:
 
 `docker-compose up`
+
+## Demo
+Download CTF challenges from [this](https://drive.google.com/drive/folders/1Neb-LJoJL9otLjFz3NJJYRIjkUyBPS_p?usp=sharing) and copy them to CTF_Challenges folder
